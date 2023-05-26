@@ -1,0 +1,14 @@
+﻿  QQgmBuLC.cpp
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(31,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(68,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(100,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(136,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(165,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(325,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\WeiXBuLC.h(16,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86193\Desktop\作业\程设\C++\WeiX\WeiX\QQgmBuLC.cpp(73): message : 查看对正在编译的函数 模板 实例化“bool findIn<int>(T,std::vector<int,std::allocator<int>>)”的引用
+          with
+          [
+              T=int
+          ]
+  WeiX.vcxproj -> C:\Users\86193\Desktop\作业\程设\C++\WeiX\Debug\WeiX.exe
